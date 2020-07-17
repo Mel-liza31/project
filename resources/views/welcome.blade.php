@@ -10,6 +10,7 @@
     <body>
         <div id="app">
             <!-- <mainapp></mainapp> -->
+            <example-component />
         </div>
     </body>
     <script src="{{ mix('/js/app.js') }}"></script>
