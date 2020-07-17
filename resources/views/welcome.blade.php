@@ -5,12 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-
        
     </head>
     <body>
         <div id="app">
-            <mainapp></mainapp>
+            <!-- <mainapp></mainapp> -->
         </div>
     </body>
     <script src="{{ mix('/js/app.js') }}"></script>
